@@ -1,6 +1,6 @@
 # 🔍 Visual Search Engine
 
-A powerful visual search engine that uses deep learning models (CLIP and ViT) to find similar images in a large dataset. Built with Python, PyTorch, FAISS, and Gradio.
+A powerful visual search engine that uses deep learning models (CLIP and ViT) to find similar images in a custom dataset. Built with Python, PyTorch, FAISS, and Gradio.
 
 ## 🎯 Features
 
@@ -78,11 +78,8 @@ Open your browser to `http://localhost:7860` to access the web interface.
 
 Watch the demo video to see the visual search engine in action:
 
-<p align="center">
-  <a href="demo/Demo_Visual_engine.mp4">
-    <img src="demo/visual_search_thumbnail.png" alt="Demo Thumbnail" width="700"/>
-  </a>
-</p>
+[![Watch the demo on YouTube](demo/visual_search_thumbnail.png)](https://youtu.be/kh5eHA85R3c)
+
 
 ## 🧠 Models
 
