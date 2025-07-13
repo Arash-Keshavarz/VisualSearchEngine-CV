@@ -1,0 +1,29 @@
+# Core ML libraries
+torch
+torchvision
+transformers
+
+# Image processing
+Pillow
+opencv-python
+
+# Data processing
+numpy
+pandas
+
+# Database
+sqlite3  
+
+# Search and Indexing
+faiss-cpu
+
+# Web Interface
+gradio
+
+# Utilities
+tqdm
+matplotlib
+seaborn
+
+# Optional: For better performance
+accelerate
