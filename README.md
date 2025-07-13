@@ -12,7 +12,9 @@ A powerful visual search engine that uses deep learning models (CLIP and ViT) to
 
 ## 🏗️ Architecture
 
-![Pipeline](pipeline.png)
+<p align="center">
+  <img src="demo/pipeline.png" alt="Pipeline" width="700"/>
+</p>
 
 The system consists of several key components:
 
@@ -76,7 +78,11 @@ Open your browser to `http://localhost:7860` to access the web interface.
 
 Watch the demo video to see the visual search engine in action:
 
-[![Demo Video](Demo_Visual_engine.mp4)](Demo_Visual_engine.mp4)
+<p align="center">
+  <a href="demo/Demo_Visual_engine.mp4">
+    <img src="demo/visual_search_thumbnail.png" alt="Demo Thumbnail" width="700"/>
+  </a>
+</p>
 
 ## 🧠 Models
 
@@ -90,7 +96,7 @@ Watch the demo video to see the visual search engine in action:
 - **Use Case**: Visual feature matching, detailed image analysis
 - **Features**: 768-dimensional feature vectors
 - **Strengths**: Better for visual pattern recognition
-- **App**: `gradio_app_vit_safe.py`
+- **App**: `gradio_app_vit_only.py`
 
 ## 📁 Project Structure
 
@@ -172,7 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For questions or support, please open an issue on GitHub or contact the maintainers.
+For questions or support, please open an issue on GitHub or contact me directly via email.
 
 ---
 
